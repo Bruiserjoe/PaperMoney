@@ -1,0 +1,13 @@
+name: PaperMoney
+version: 0.1
+author: Bruiserjoe
+main: com.bruiserjoe.pmoney.pmoney
+description: Only use paper money on server
+
+commands:
+  givemoney:
+    aliases: [givem]
+    description: Gives moneys
+  takemoney:
+    aliases: [takem]
+    description: Takes moneys
